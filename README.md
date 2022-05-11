@@ -15,3 +15,8 @@ In part 3 I was tasked with writing functions to apply the Sobel operators with 
 
 ## Image Detection
 This project was broken down into three parts as well.
+1. Hough transform
+2. Harris corner detection
+3. Feature descriptors and matching
+
+In part 1 I wrote a multiple functions in order to implement Hough transform. I took the provided image, performed canny edge detection, computed its Hough map and space, and then used these to draw the detected lines onto the provided image.
