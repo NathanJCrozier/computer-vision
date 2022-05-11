@@ -1,7 +1,7 @@
-### Computer Vision
+# Computer Vision
 A collection of projects completed while learning computer vision.
 
-##Image Operations
+## Image Operations
 This project was broken down into three parts. 
 1. Sampling/Interpolation
 2. Filtering
