@@ -5,8 +5,6 @@ Below is a list of my functions and a brief description of what they do. However
 the process by including three extra functions at the bottom which are specifically for the purposes of demonstrating 
 each part in full. They are ready to be run at the bottom of the document, and are currently commented out. 
 Feel free to un-comment one and then run it to see the results. You can then re-comment it and try another one.
-The image used was the one provided in the assignment from Wikiart. 
-I have included it in the zip in case you need it under the name "sample.jpg".
 -------------------------------------------------------------------------------------------------------------------
 downSampleImage(int, image): downsamples an image by a given factor
 
