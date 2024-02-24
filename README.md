@@ -18,5 +18,6 @@ This project was broken down into three parts as well.
 1. Hough transform
 2. Harris corner detection
 3. Feature descriptors and matching
+![Matching feature descriptors across two images of the same object from different angles](https://github.com/NathanJCrozier/computer-vision/assets/60196939/2f39a361-430d-4edd-a614-9402418fe01a)
 
 In part 1 I wrote a multiple functions in order to implement Hough transform. I took the provided image, performed canny edge detection, computed its Hough map and space, and then used these to draw the detected lines onto the provided image.
